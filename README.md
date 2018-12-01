@@ -9,17 +9,19 @@ Privatitation of Github Collections for personal reference or just to keep track
 [Template & Reference Material](#user-content-template--reference-material) for adding new items is provided in footer
 
 
-### Great PHP Libraries
+## Great PHP Libraries
 
 * [SemVer](https://github.com/PHLAK/SemVer) : Semantic versioning helper library for PHP : ![GC Raiting: 4.0](https://img.shields.io/badge/Rating-4.0-yellowgreen.svg?logo=github&longCache=true&style=flat)
 
 
-### Products/Services for a quick SideProject Launch
+## Products/Services for a quick SideProject Launch
 
 Usefull products or services to help quick launch your new Side Project. 
 
 * [Getform](https://getform.io/) : Easy form endpoints : ![GC Raiting: 3.5](https://img.shields.io/badge/Rating-3.5-yellow.svg?logo=github&longCache=true&style=flat)
 
+
+---
 
 #### Template & Reference Material
 
