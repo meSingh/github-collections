@@ -36,3 +36,5 @@ Variables Definition:
 * ITEM_DISCRIPTION : Description of collection item
 * ITEM_RAITING : Given raitng based on other items in collection
 * ITEM_RAITING_COLOR : Raiting color based on raiting, avaialble options: [ 5.0 => brightgreen, 4.5 => green, 4.0 => yellowgreen, 3.5 => yellow, 3.0 => orange, 2.5 => red, 0 => lightgrey(Expired / Removed) ]
+
+Credit: Raiting icons form [Shields.io](https://shields.io)
